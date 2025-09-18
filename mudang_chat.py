@@ -1,4 +1,4 @@
-# mudang.py
+# https://python.langchain.com/docs/tutorials/chatbot/
 
 from typing import Sequence
 
